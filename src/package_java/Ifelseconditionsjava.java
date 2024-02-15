@@ -18,6 +18,7 @@ public class Ifelseconditionsjava {
 			else
 			{
 				System.out.println(arr2[i]+ "it's not applicable multiply by 2");
+				System.out.println("New line");
 			}
 		}
 
